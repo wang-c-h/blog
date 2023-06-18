@@ -5,9 +5,9 @@
 - id: format_date_tosec
   translation: '{{ .Format "2006-01-02 15:04" }}'
 - id: next_link
-  translation: '下回'
+  translation: '下一篇'
 - id: prev_link
-  translation: '上回'
+  translation: '上一篇'
 - id: no_newer_posts
   translation: 已经到头啦。
 - id: no_older_posts

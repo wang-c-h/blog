@@ -622,6 +622,9 @@ a {
       .post-item-wrapper {
         cursor: hand;
         cursor: pointer;
+
+
+
         .post-item {
           margin: 0 28px 0 35px;
           padding: 30px 0;
@@ -706,6 +709,12 @@ a {
             }
           }
         }
+
+        .post-item-small {
+          @extend .post-item;
+          padding:20px 0;;
+        }
+
         @media screen and (max-width: $single-column-max-width) {
           .post-item-no-divider {
             border-bottom: none !important;

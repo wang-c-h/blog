@@ -6,6 +6,7 @@ copyright = "This is a customized copyright."
 theme = "diary"
 # googleAnalytics = "UA-123-45"
 
+paginate = 10
 
 [markup]
   [markup.highlight]
@@ -24,7 +25,7 @@ subtitle = "记录美好的每一天."
 enableGitalk = false
 enableGiscus = true
 hideCopyright = true
-
+archivePages = 20
 
 # Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
 clarity = "abcdefghzd"
