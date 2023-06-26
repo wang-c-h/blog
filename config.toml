@@ -36,6 +36,9 @@ enableTwitterCards = true
 title = "王长号的博客"
 description = "王长号的博客"
 
+paginate = 10
+
+
 
 # Please visit https://giscus.app/ to generate settings.
 [params.giscus]
