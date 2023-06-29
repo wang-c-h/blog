@@ -1,7 +1,7 @@
 ---
 title: "Help"
 date: 2023-04-19T15:24:21+08:00
-draft: true
+draft: false
 ---
 
 ## windows环境下通过 adb 安装apk
