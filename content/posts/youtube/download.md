@@ -21,4 +21,5 @@ yt-dlp.exe -i -N 10 --playlist-start 10 -f 'bestvideo[height<=2160] +bestaudio/b
 -f：分辨率  
 --verbose：输出过程详细信息  
 -o：指定下载输出路径和文件名格式  
+--cookies-from-browser: 指定使用某个浏览器的cookies 例如：chrome
 最后的是url，即视频播放列表链接  
