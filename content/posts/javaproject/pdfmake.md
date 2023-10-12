@@ -4,7 +4,7 @@ date: 2023-10-12T21:33:55+08:00
 description: "pdfmake生成pdf指南"
 tags: [pdfmake]
 categories: javascript
-draft: true
+draft: false
 ---
 
 
